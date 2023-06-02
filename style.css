@@ -1,0 +1,23 @@
+/*
+Theme Name: VLOG Theme
+Author: VLOG Team
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+footer {
+    background-color: rgb(233, 206, 176);
+}
